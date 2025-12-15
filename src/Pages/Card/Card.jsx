@@ -3,6 +3,8 @@ import downloadIcon from '../../assets/icon-downloads.png'
 import ratting from '../../assets/icon-ratings.png'
 
 const Card = ({card}) => {
+
+  
     
     const {image,title,companyName,downloads,ratingAvg}=card
     
