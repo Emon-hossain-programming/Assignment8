@@ -1,0 +1,254 @@
+[
+  {
+    "image": "https://i.ibb.co.com/Lhc2Ktk7/8379988.jpg",
+    "title": "FaceBook (Social Hub)",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 301,
+    "description": "Connect with friends and family, share photos, and join groups.",
+    "size": 280,
+    "reviews": 15000000,
+    "ratingAvg": 4.1,
+    "downloads": "5M",
+    "ratings": [
+      { "name": "1 star", "count": 2500000 },
+      { "name": "2 star", "count": 1500000 },
+      { "name": "3 star", "count": 2000000 },
+      { "name": "4 star", "count": 4000000 },
+      { "name": "5 star", "count": 5000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/Ndtt2W7q/10464410.png",
+    "title": "YouTube (Video Stream)",
+    "companyName": "Google LLC",
+    "id": 302,
+    "description": "Watch and explore billions of videos, music, and original content.",
+    "size": 180,
+    "reviews": 12000000,
+    "ratingAvg": 4.3,
+    "downloads": "10M",
+    "ratings": [
+      { "name": "1 star", "count": 1500000 },
+      { "name": "2 star", "count": 1000000 },
+      { "name": "3 star", "count": 2500000 },
+      { "name": "4 star", "count": 3500000 },
+      { "name": "5 star", "count": 3500000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/xKkf3fSm/171571-OWW6-R7-420.jpg",
+    "title": "Messenger (Chat App)",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 303,
+    "description": "Free, fast, and easy communication via text, audio, and video calls.",
+    "size": 190,
+    "reviews": 9000000,
+    "ratingAvg": 4.0,
+    "downloads": "5M",
+    "ratings": [
+      { "name": "1 star", "count": 1800000 },
+      { "name": "2 star", "count": 1200000 },
+      { "name": "3 star", "count": 2000000 },
+      { "name": "4 star", "count": 2500000 },
+      { "name": "5 star", "count": 1500000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/JWP9nRmC/amazon-logo-editorial-icon-isolated-600w-2333488123.webp",
+    "title": "Amazon Shopping",
+    "companyName": "Amazon Mobile LLC",
+    "id": 304,
+    "description": "Shop millions of products, manage orders, and track deliveries.",
+    "size": 160,
+    "reviews": 7500000,
+    "ratingAvg": 4.4,
+    "downloads": "5M",
+    "ratings": [
+      { "name": "1 star", "count": 800000 },
+      { "name": "2 star", "count": 900000 },
+      { "name": "3 star", "count": 1200000 },
+      { "name": "4 star", "count": 2100000 },
+      { "name": "5 star", "count": 2500000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/wZJtHy8S/2209-w018-n002-1289a-p30-1289.jpg",
+    "title": "Google Maps",
+    "companyName": "Google LLC",
+    "id": 305,
+    "description": "Navigation, traffic updates, and detailed information about millions of places.",
+    "size": 170,
+    "reviews": 11000000,
+    "ratingAvg": 4.6,
+    "downloads": "5M",
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 600000 },
+      { "name": "3 star", "count": 1400000 },
+      { "name": "4 star", "count": 3500000 },
+      { "name": "5 star", "count": 5000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/C5M8dPpL/netflix-1710212.png",
+    "title": "Netflix (Stream TV)",
+    "companyName": "Netflix, Inc.",
+    "id": 306,
+    "description": "Watch TV shows and movies, originals, and documentaries on your device.",
+    "size": 140,
+    "reviews": 5500000,
+    "ratingAvg": 4.3,
+    "downloads": "10M",
+    "ratings": [
+      { "name": "1 star", "count": 700000 },
+      { "name": "2 star", "count": 800000 },
+      { "name": "3 star", "count": 1000000 },
+      { "name": "4 star", "count": 1500000 },
+      { "name": "5 star", "count": 1500000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/1YqSCC4q/music-15239469.png",
+    "title": "Spotify (Music Player)",
+    "companyName": "Spotify AB",
+    "id": 307,
+    "description": "Millions of songs and podcasts. Listen, discover, and build playlists.",
+    "size": 120,
+    "reviews": 8800000,
+    "ratingAvg": 4.4,
+    "downloads": "10M",
+    "ratings": [
+      { "name": "1 star", "count": 900000 },
+      { "name": "2 star", "count": 1100000 },
+      { "name": "3 star", "count": 1500000 },
+      { "name": "4 star", "count": 2300000 },
+      { "name": "5 star", "count": 3000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/HsBHb4t/instagram-408758.png",
+    "title": "Instagram (Photo & Video)",
+    "companyName": "Meta Platforms, Inc.",
+    "id": 308,
+    "description": "Share your moments and connect with people through stunning visuals.",
+    "size": 250,
+    "reviews": 10500000,
+    "ratingAvg": 4.2,
+    "downloads": "10M",
+    "ratings": [
+      { "name": "1 star", "count": 1800000 },
+      { "name": "2 star", "count": 1200000 },
+      { "name": "3 star", "count": 2200000 },
+      { "name": "4 star", "count": 2800000 },
+      { "name": "5 star", "count": 2500000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/gZ2Hcs3g/google-drive-5968523.png",
+    "title": "Google Drive",
+    "companyName": "Google LLC",
+    "id": 309,
+    "description": "Securely store and share files, photos, and access them anywhere.",
+    "size": 95,
+    "reviews": 6000000,
+    "ratingAvg": 4.7,
+    "downloads": "5M",
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 500000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 3000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/qMr8rjpt/png-transparent-booking-com-full-logo-tech-companies-thumbnail.png",
+    "title": "Booking.com (Travel)",
+    "companyName": "Booking.com BV",
+    "id": 310,
+    "description": "Find and book hotels, apartments, and vacation rentals worldwide.",
+    "size": 110,
+    "reviews": 4000000,
+    "ratingAvg": 4.5,
+    "downloads": "10M",
+    "ratings": [
+      { "name": "1 star", "count": 300000 },
+      { "name": "2 star", "count": 400000 },
+      { "name": "3 star", "count": 600000 },
+      { "name": "4 star", "count": 1200000 },
+      { "name": "5 star", "count": 1500000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/LhBr8mKK/download.png",
+    "title": "Duolingo (Language)",
+    "companyName": "Duolingo",
+    "id": 311,
+    "description": "Fun, free lessons to learn 40+ languages quickly and effectively.",
+    "size": 130,
+    "reviews": 3200000,
+    "ratingAvg": 4.7,
+    "downloads": "5M",
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 350000 },
+      { "name": "4 star", "count": 1000000 },
+      { "name": "5 star", "count": 1600000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/zVk76bcG/download-1.png",
+    "title": "PayFast Wallet",
+    "companyName": "Digital Finance Inc.",
+    "id": 312,
+    "description": "Quick mobile payments, bill payments, and money transfers.",
+    "size": 85,
+    "reviews": 2800000,
+    "ratingAvg": 4.4,
+    "downloads": "15M",
+    "ratings": [
+      { "name": "1 star", "count": 200000 },
+      { "name": "2 star", "count": 300000 },
+      { "name": "3 star", "count": 400000 },
+      { "name": "4 star", "count": 900000 },
+      { "name": "5 star", "count": 1000000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/5hdzvtT8/download-2.png",
+    "title": "PDF Reader Pro",
+    "companyName": "DocuSoft Solutions",
+    "id": 313,
+    "description": "View, annotate, and share PDF files easily and securely.",
+    "size": 55,
+    "reviews": 1500000,
+    "ratingAvg": 4.3,
+    "downloads": "5M",
+    "ratings": [
+      { "name": "1 star", "count": 100000 },
+      { "name": "2 star", "count": 150000 },
+      { "name": "3 star", "count": 300000 },
+      { "name": "4 star", "count": 500000 },
+      { "name": "5 star", "count": 450000 }
+    ]
+  },
+  {
+    "image": "https://i.ibb.co.com/vxhV5Wdk/demo-app-1.webp",
+    "title": "Street Rush Game",
+    "companyName": "Infinite Games Studio",
+    "id": 314,
+    "description": "An endless runner game with engaging graphics and challenges.",
+    "size": 115,
+    "reviews": 6000000,
+    "ratingAvg": 4.2,
+    "downloads": "10M",
+    "ratings": [
+      { "name": "1 star", "count": 500000 },
+      { "name": "2 star", "count": 700000 },
+      { "name": "3 star", "count": 1300000 },
+      { "name": "4 star", "count": 2000000 },
+      { "name": "5 star", "count": 1500000 }
+    ]
+  }
+]
