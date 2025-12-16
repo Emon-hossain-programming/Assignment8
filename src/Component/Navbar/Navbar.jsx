@@ -1,7 +1,8 @@
 import React from 'react';
 import logo from '../../assets/logo.png'
-import { Github } from 'lucide-react';
-import { NavLink } from 'react-router';
+import { Download, Github, House, LayoutGrid } from 'lucide-react';
+import { Link, NavLink } from 'react-router';
+import Theme from '../Theme/Theme';
 
 const Navbar = () => {
     return (
@@ -18,22 +19,25 @@ const Navbar = () => {
       <li>
         <NavLink to='/apps'>Apps</NavLink>
       </li>
-      <li><NavLink to='/install'>Installation</NavLink></li>
+       <li><a >Installation</a></li>
       </ul>
+    
     </div>
     <img className='w-10 h-10' src={logo} alt="" />
-    <a className="btn btn-ghost text-xl text-[#9f62f2]">HERO.IO</a>
+    <Link to='/' className="btn btn-ghost text-xl text-[#9f62f2]">HERO.IO</Link>
   </div>
   <div className="navbar-center hidden lg:flex">
     <ul className="menu menu-horizontal px-1">
-         <li><NavLink to='/'>Home</NavLink></li>
+         <li><NavLink to='/'> <House />Home</NavLink></li>
       <li>
-       <NavLink to='/apps'>Apps</NavLink>
+       <NavLink to='/apps'><LayoutGrid />Apps</NavLink>
       </li>
-      <li><NavLink to='/install'>Installation</NavLink></li>
+      <li><NavLink to='/install'><Download />Installation</NavLink></li>
     </ul>
+   
   </div>
   <div className="navbar-end">
+    
     <a href='https://github.com/Emon-hossain-programming' className="btn background text-white"><Github />Contribute</a>
   </div>
 </div>

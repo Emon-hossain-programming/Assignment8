@@ -1,6 +1,9 @@
 @import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
 @import "tailwindcss";
-@plugin "daisyui";
+
+ @plugin "daisyui" {
+   themes: light --default, dark --prefersdark, cupcake;
+ };
 
 .font {
   font-family: "Inter", sans-serif;
@@ -19,11 +22,7 @@
     color: transparent;
 }
 .active{
-    background-image: linear-gradient( rgba(99, 46, 227, 1), rgba(159, 98, 242, 1) 100%);
-    -webkit-background-clip: text;
-    background-clip: text;
-    color: transparent;
-    border-bottom: 5px solid rgba(128, 0, 128, 0.725);
+    border-bottom: 3px solid rgba(128, 0, 128, 0.725);
 }
 
     

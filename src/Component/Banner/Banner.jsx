@@ -2,6 +2,7 @@ import React from 'react';
 import googlePlayLogo from '../../assets/google-play_3128279.png'
 import appStoreLogo from '../../assets/app-store_668276.png'
 import Hero from './Hero';
+import { TrendingUp } from 'lucide-react';
 
 
 const Banner = () => {
@@ -28,6 +29,12 @@ const Banner = () => {
   </div>
 </div>
 <Hero></Hero>
+<div className='flex justify-center items-center mt-12'>
+  <div className='text-center'>
+    <h2 className="text-3xl font-bold flex ml-8 p-4">Trending Apps <TrendingUp/></h2>
+    <p className='text-gray-400 mt-4 mb-6'>Explore All Trending Apps on the Market developed by us</p>
+  </div>
+</div>
 
 </div>
     );

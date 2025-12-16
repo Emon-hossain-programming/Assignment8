@@ -1,11 +1,16 @@
 import React from 'react';
 import downloadIcon from '../../assets/icon-downloads.png';
 import ratting from '../../assets/icon-ratings.png'
+import { NavLink } from 'react-router';
+ 
 
 const AllCard = ({card}) => {
-    const {image,title,companyName,downloads,ratingAvg}=card
+    const {image,title,downloads,ratingAvg,id}=card
+
     return (
-         <div>
+      
+        <NavLink to={`/appdetaila/${id}`}>
+           <div>
                 <div className="card bg-base-100  shadow-sm hover:scale-105 transition ease-in-out">
           <figure className=''>
             <img
@@ -14,7 +19,7 @@ const AllCard = ({card}) => {
               alt="Shoes" />
           </figure>
           <div className="card-body">
-            <h2 className="card-title">{title}:{companyName}</h2>
+            <h2 className="card-title">{title}</h2>
         
             <div className="card-actions flex justify-between">
               <div className='flex gap-1 items-center btn'>
@@ -29,9 +34,8 @@ const AllCard = ({card}) => {
             </div>
           </div>
         </div>
-        
-           
                </div>
+        </NavLink>
     );
 };
 

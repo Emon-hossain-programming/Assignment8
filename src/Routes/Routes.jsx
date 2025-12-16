@@ -4,6 +4,7 @@ import HomePage from "../Component/Banner/HomePage";
 import Error from "../Pages/Error/Error";
 import Apps from "../Pages/Error/Apps/Apps";
 import Install from "../Pages/InstallPage/Install";
+import AppDetails from "../Pages/AppDetails/AppDetails";
 
  const route=createBrowserRouter([
    {
@@ -19,6 +20,10 @@ import Install from "../Pages/InstallPage/Install";
         {
             path:'/apps',
            Component:Apps
+        },
+        {
+            path:'/appdetaila/:id',
+            Component:AppDetails
         },
         {
             path:'/install',
