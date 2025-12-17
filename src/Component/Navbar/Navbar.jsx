@@ -15,11 +15,11 @@ const Navbar = () => {
       <ul
         tabIndex="-1"
         className="menu menu-sm dropdown-content bg-base-100 rounded-box z-1 mt-3 w-52 p-2 shadow">
-        <NavLink to='/'>Home</NavLink>
+        <li><NavLink to='/'> <House />Home</NavLink></li>
       <li>
-        <NavLink to='/apps'>Apps</NavLink>
+       <NavLink to='/apps'><LayoutGrid />Apps</NavLink>
       </li>
-       <li><a >Installation</a></li>
+      <li><NavLink to='/install'><Download />Installation</NavLink></li>
       </ul>
     
     </div>
